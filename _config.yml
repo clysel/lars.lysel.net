@@ -1,0 +1,19 @@
+# Site settings
+title: Lars Lysel
+email: webmaster@lysel.net
+description: "Lars Lysel"
+#baseurl: "http://lars.lysel.net/"
+#url: http://lars.lysel.net
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title/
+highlighter: rouge
+paginate: 15
+#exclude: ["node_modules"]
+
+gems:
+  - jekyll-sitemap
+
+
