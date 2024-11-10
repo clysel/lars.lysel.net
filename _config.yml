@@ -2,9 +2,8 @@
 title: Lars Lysel
 email: webmaster@lysel.net
 description: "Lars Lysel"
-#baseurl: "http://lars.lysel.net/"
+baseurl: "https://lars.lysel.net/"
 #url: http://lars.lysel.net
-baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -15,5 +14,6 @@ paginate: 15
 
 gems:
   - jekyll-sitemap
+
 
 
